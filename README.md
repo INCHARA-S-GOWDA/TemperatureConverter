@@ -5,8 +5,9 @@ Celsius to Fahrenheit and Kelvin.
  The Temperature is generally measured in terms of unit degree., i.e. in Celsius, Fahrenheit & Kelvin.
 
 The formula for converting Celsius scale to Fahrenheit scale and Kelvin scale:
+
 T(°F) = (T(°C) * 9)/5 + 32
-T(°K) = T(°C) + 273.15
+                     T(°K) = T(°C) + 273.15
 
 The formula for converting Fahrenheit scale to Celsius scale and Kelvin scale:
 T(°C) = ((T(°F) - 32) * 5) / 9
